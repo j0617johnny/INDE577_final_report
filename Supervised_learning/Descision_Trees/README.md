@@ -21,5 +21,3 @@ Outline:
     - Classification problem
     - Regression problem
 - Reference
-
-## Dataset used in applications
