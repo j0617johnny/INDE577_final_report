@@ -1,14 +1,14 @@
-# Decision Tree
+# Ensemble Methods
 
-This repository showcases the practical implementation and diverse applications of decision trees.
+This repository showcases the practical implementation and diverse applications of ensemble methods.
 
 ## File descriptions
-Inside "Decision_Trees.ipynb," you'll find detailed explanations and coding examples demonstrating the utility of decision tree algorithms.
+Inside "Ensemble_Methods.ipynb," you'll find detailed explanations and coding examples demonstrating the utility of ensemble methods algorithms.
 
 Outline:
 - Introduction
 - Algorithm
-    - Steps for generating a decision tree
+    - Steps for generating a ensemble methods
     - Information Gain (IG)
     - The Formula of Inpurity of a node
         - Entropy
