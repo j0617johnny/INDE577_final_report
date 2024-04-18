@@ -8,6 +8,7 @@ Inside "K-Nearest_neighbors.ipynb," you'll find detailed explanations and coding
 ## Introduction to K-Nearest Neighbors (KNN) Modeling
 
 ![KNN memes](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsv9VpCb57ghdXD8bhcdENlkYKNLa9Pb9knFj11kyLuA&s)
+
 Image from Aiensured
 
 K-Nearest Neighbors (KNN) is a simple yet powerful supervised machine learning algorithm used for classification and regression tasks. It operates on the principle of similarity, where instances are classified or predicted based on the majority vote or average of their nearest neighbors in the feature space.
