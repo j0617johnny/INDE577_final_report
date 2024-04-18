@@ -73,9 +73,12 @@ The splitting process at each decision node is guided by a chosen splitting crit
 
 - **Information Gain (Entropy):** Information gain is calculated using the entropy measure, which quantifies the uncertainty in a set of data. The formula for entropy is:
 
-  $$
-  \text{Entropy}(S) = -\sum_{i=1}^{n} p_i \log_2(p_i)
-  $$
+$$
+\text{Entropy}(S) = -\sum_{i=1}^{n} p_i \log_2(p_i)
+$$
+
+
+
 
   where $S$ is the set of data, $n$ is the number of classes, and $p_i$ is the proportion of data belonging to class $i$ in set $S$.
 
