@@ -7,7 +7,11 @@ Inside "Decision_Trees.ipynb," you'll find detailed explanations and coding exam
 
 # Introduction to Decision Trees and Their Theoretical Foundation
 
+![Decsion tree cartoon](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*xmZis4W43nLXwDJLwOCRcA.png)
+
 Decision trees are a fundamental machine learning technique used for both classification and regression tasks. In this section, we provide an overview of decision trees, exploring their definition, conceptual understanding, and historical development. We delve into their wide-ranging applications, from solving classification problems to addressing regression challenges. Additionally, we discuss the theoretical underpinnings of decision trees, including their inherent bias-variance tradeoff.
+
+
 
 ## Overview of Decision Trees
 
