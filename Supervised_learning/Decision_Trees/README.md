@@ -61,6 +61,8 @@ This section delves into the fundamental principles underlying decision tree con
 
 Understanding the structure of decision trees is pivotal for comprehending their functionality and interpretability. We examine the components of decision trees, including nodes, branches, and leaves, and discuss their hierarchical representation of decision rules. By understanding decision tree structure, practitioners can gain deeper insights into how decisions are made within the model.
 
+![Structure of Decision Tree](https://editor.analyticsvidhya.com/uploads/957661234.png)
+
 ### Decision Nodes
 
 Decision nodes represent points within the tree where the data is split based on a chosen attribute or feature. They embody the decision-making process of the algorithm, evaluating different features to select the one that optimally divides the data. The selection of the splitting criterion at each decision node is crucial for maximizing the homogeneity (purity) of the resulting subsets.
