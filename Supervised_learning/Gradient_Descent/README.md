@@ -47,7 +47,7 @@ Gradient descent operates on the principle of iteratively updating the parameter
 
 - **Gradient:** The gradient of the cost function with respect to the model parameters indicates the direction of steepest ascent. By taking the negative gradient, gradient descent moves in the direction of steepest descent, towards the minimum of the cost function.
 
-- **Learning Rate:** The learning rate, denoted by $alpha$, determines the step size taken in each iteration of gradient descent. It controls the rate at which the parameters are updated and influences the convergence and stability of the optimization process.
+- **Learning Rate:** The learning rate, denoted by '&alpha;', determines the step size taken in each iteration of gradient descent. It controls the rate at which the parameters are updated and influences the convergence and stability of the optimization process.
 
 ### Optimization Process
 
