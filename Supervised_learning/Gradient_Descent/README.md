@@ -1,16 +1,15 @@
 # Gradient Descent
 
-This repository showcases the practical implementation and diverse applications of ensemble methods.
+This repository showcases the practical implementation and diverse applications of Gradient Descent.
 
 ## File descriptions
-Inside "Ensemble_Methods.ipynb," you'll find detailed explanations and coding examples demonstrating the utility of ensemble methods algorithms.
+Inside "Gradient_Descent.ipynb," you'll find detailed explanations and coding examples demonstrating the utility of Gradient Descent algorithms.
 
 ## Gradient Descent Training Model: A Optimization Technique in Machine Learning
 
 Gradient Descent is a fundamental optimization technique used in machine learning for minimizing the cost function of a model by iteratively adjusting its parameters. It is widely employed in training various types of models, including linear regression, logistic regression, neural networks, and support vector machines.
 
 ![Gradient Descent](https://builtin.com/sites/www.builtin.com/files/styles/ckeditor_optimize/public/inline-images/national/gradient-descent-range.png)
-![Memes](https://twitter.com/overflow_meme/status/1338873023064051719/photo/1)
 
 
 ## Applications of Gradient Descent
