@@ -7,7 +7,8 @@ Inside "K-Nearest_neighbors.ipynb," you'll find detailed explanations and coding
 
 ## Introduction to K-Nearest Neighbors (KNN) Modeling
 
-![KNN cartoon](https://media.licdn.com/dms/image/C5612AQF_U4N9dg2rvQ/article-cover_image-shrink_600_2000/0/1589820781492?e=2147483647&v=beta&t=eMYYmOwCq49gweyoTg4fcYfzw7Fr1pfNVCu83yE9DCk)
+![KNN memes](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsv9VpCb57ghdXD8bhcdENlkYKNLa9Pb9knFj11kyLuA&s)
+Image from Aiensured
 
 K-Nearest Neighbors (KNN) is a simple yet powerful supervised machine learning algorithm used for classification and regression tasks. It operates on the principle of similarity, where instances are classified or predicted based on the majority vote or average of their nearest neighbors in the feature space.
 
@@ -74,6 +75,9 @@ KNN inherently supports both numerical and categorical features. When dealing wi
 ## Cross-Validation Techniques for KNN
 
 Cross-validation is a robust technique for assessing the generalization performance of KNN models and selecting optimal hyperparameters. Common cross-validation methods, such as k-fold cross-validation and leave-one-out cross-validation, help mitigate issues of overfitting and variance estimation.
+
+![Fitting](https://miro.medium.com/v2/resize:fit:1400/0*jB3VzCwWSwGXUX82.png)
+Image from Geetha Mattaparthi
 
 ## Performance Metrics for KNN
 

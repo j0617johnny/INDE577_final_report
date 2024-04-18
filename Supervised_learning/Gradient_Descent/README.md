@@ -10,7 +10,7 @@ Inside "Gradient_Descent.ipynb," you'll find detailed explanations and coding ex
 Gradient Descent is a fundamental optimization technique used in machine learning for minimizing the cost function of a model by iteratively adjusting its parameters. It is widely employed in training various types of models, including linear regression, logistic regression, neural networks, and support vector machines.
 
 ![Gradient Descent](https://builtin.com/sites/www.builtin.com/files/styles/ckeditor_optimize/public/inline-images/national/gradient-descent-range.png)
-
+Image from Murli Jadhav
 
 ## Applications of Gradient Descent
 
@@ -53,6 +53,7 @@ Gradient descent operates on the principle of iteratively updating the parameter
 - **Learning Rate:** The learning rate, denoted by &alpha;, determines the step size taken in each iteration of gradient descent. It controls the rate at which the parameters are updated and influences the convergence and stability of the optimization process.
 
 ![Learning Rate](https://builtin.com/sites/www.builtin.com/files/styles/ckeditor_optimize/public/inline-images/national/gradient-descent-learning-rate.png)
+Image from Murli Jadhav
 
 ### Optimization Process
 
