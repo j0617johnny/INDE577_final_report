@@ -77,32 +77,31 @@ $$
 \text{Entropy}(S) = -\sum_{i=1}^{n} p_i \log_2(p_i)
 $$
 
-
-
-
   where $S$ is the set of data, $n$ is the number of classes, and $p_i$ is the proportion of data belonging to class $i$ in set $S$.
 
   Information gain is then calculated as the difference in entropy before and after the split:
 
-  $$
-  \text{Information Gain} = \text{Entropy}(S) - \sum_{v \in \text{values}} \frac{|S_v|}{|S|} \text{ Entropy}(S_v) \
-  $$
+$$
+\text{Information Gain} = \text{Entropy}(S) - \sum_{v \in \text{values}} \frac{|S_v|}{|S|} \text{ Entropy}(S_v) \
+$$
 
-  where \(S_v\) is the subset of data for a given value of the splitting attribute, and \(|S|\) represents the total number of instances in set \(S\).
+  where $S_v$ is the subset of data for a given value of the splitting attribute, and $|S|$ represents the total number of instances in set $S$.
 
 - **Gini Impurity:** Gini impurity measures the probability of incorrectly classifying a randomly chosen element if it were randomly labeled according to the distribution of labels in the subset. The formula for Gini impurity is:
 
-  \[ \text{Gini}(S) = 1 - \sum_{i=1}^{n} p_i^2 \]
-
-  where \(S\) is the set of data, \(n\) is the number of classes, and \(p_i\) is the proportion of data belonging to class \(i\) in set \(S\).
+$$
+\text{Gini}(S) = 1 - \sum_{i=1}^{n} p_i^2 \
+$$
 
   The Gini impurity after the split is then calculated as a weighted sum of Gini impurities for each subset.
 
 - **Classification Error:** The classification error is simply the proportion of misclassified instances in a subset. Mathematically, it is represented as:
 
-  \[ \text{Classification Error}(S) = 1 - \max(p_i) \]
+$$
+\text{Classification Error}(S) = 1 - \max(p_i) \
+$$
 
-  where \(S\) is the set of data, \(p_i\) is the proportion of data belonging to the majority class in set \(S\).
+  where $S$ is the set of data, $p_i$ is the proportion of data belonging to the majority class in set $S$.
 
 These splitting criteria guide the decision tree algorithm in selecting the attribute and value that result in the greatest information gain, lowest Gini impurity, or lowest classification error, depending on the chosen criterion.
 
