@@ -37,7 +37,7 @@ K-Means clustering finds applications in various fields, including customer segm
 
 K-Means relies on distance metrics, such as Euclidean distance or Manhattan distance, to measure the similarity between data points and cluster centroids. The choice of distance metric influences the clustering results and should be selected based on the nature of the data.
 
-Mathematically, the Euclidean distance between two points $\mathbf{x} \$ and $\mathbf{y} \$ in $n$-dimensional space can be calculated as:
+Mathematically, the Euclidean distance between two points in $n$-dimensional space can be calculated as:
 
 $$
 \text{Euclidean Distance}(\mathbf{x}, \mathbf{y}) = \sqrt{\sum_{i=1}^{n} (x_i - y_i)^2} \
