@@ -70,9 +70,7 @@ Stacking, also known as meta-ensembling, combines predictions from multiple base
 
 Formula for Stacking:
 
-$$
-\hat{f}_{stack}(x) = g(\hat{f}_1(x), \hat{f}_2(x), ..., \hat{f}_k(x)) \
-$$
+\[ \hat{f}_{\text{bag}}(x) = \frac{1}{B} \sum_{b=1}^{B} \hat{f}^{*}_b(x) \]
 
 ### Random Forest:
 
