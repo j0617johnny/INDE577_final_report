@@ -13,6 +13,10 @@ Principal Component Analysis (PCA) is a widely used dimensionality reduction tec
 
 PCA aims to find a new set of orthogonal axes, called principal components, that capture the maximum variance in the data. By projecting the data onto these components, PCA reduces the dimensionality of the dataset while retaining as much information as possible.
 
+![PCA](https://builtin.com/sites/www.builtin.com/files/inline-images/national/Principal%2520Component%2520Analysis%2520second%2520principal.gif)
+
+Image from Brennan Whitfield
+
 ## Applications of PCA
 
 PCA finds applications in numerous fields, including:
