@@ -11,7 +11,7 @@ K-Means clustering is a popular unsupervised machine learning algorithm used for
 
 ## Fundamentals of K-Means Clustering
 
-K-Means clustering aims to partition data points into \( K \) clusters, where each point belongs to the cluster with the nearest mean. The algorithm iteratively assigns data points to the nearest cluster centroid and updates the centroids until convergence.
+K-Means clustering aims to partition data points into $K$ clusters, where each point belongs to the cluster with the nearest mean. The algorithm iteratively assigns data points to the nearest cluster centroid and updates the centroids until convergence.
 
 ## Applications of K-Means Clustering
 
@@ -28,7 +28,7 @@ K-Means clustering finds applications in various fields, including customer segm
 ### Disadvantages
 
 - Sensitivity to Initial Centroids: K-Means results may vary depending on the initial placement of cluster centroids.
-- Fixed Number of Clusters: The algorithm requires specifying the number of clusters (K) in advance, which may not always be known a priori.
+- Fixed Number of Clusters: The algorithm requires specifying the number of clusters $k$ in advance, which may not always be known a priori.
 - Sensitivity to Outliers: Outliers can significantly impact the clustering results, as K-Means aims to minimize the squared distances to cluster centroids.
 
 # Basics of K-Means Algorithm
@@ -53,9 +53,9 @@ Convergence criteria determine when to stop the iterative process of updating cl
 
 # Model Evaluation and Parameter Tuning
 
-## Choosing the Number of Clusters (K)
+## Choosing the Number of Clusters $k$
 
-Selecting the optimal number of clusters (K) is a crucial step in K-Means clustering. Techniques such as the elbow method, silhouette score, and gap statistics can help determine the appropriate number of clusters based on the data's underlying structure.
+Selecting the optimal number of clusters $k$ is a crucial step in K-Means clustering. Techniques such as the elbow method, silhouette score, and gap statistics can help determine the appropriate number of clusters based on the data's underlying structure.
 
 ## Evaluating Cluster Quality in K-Means Clustering
 
@@ -63,4 +63,4 @@ Evaluating the quality of clusters is essential for assessing the effectiveness 
 
 ## Tuning Hyperparameters in K-Means Clustering
 
-Hyperparameters in K-Means clustering, such as the number of clusters (K) and the choice of distance metric, can significantly impact the clustering results. Techniques such as cross-validation and grid search can be employed to tune hyperparameters and optimize clustering performance.
+Hyperparameters in K-Means clustering, such as the number of clusters $k$ and the choice of distance metric, can significantly impact the clustering results. Techniques such as cross-validation and grid search can be employed to tune hyperparameters and optimize clustering performance.
