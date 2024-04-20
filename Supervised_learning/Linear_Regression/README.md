@@ -57,12 +57,12 @@ $$
 
 Where:
 - $m$ is the number of training examples
-- $\hat{y_i}$ is the predicted value for the \(i^{th}\) example
+- $\hat{y_i}$ is the predicted value for the $i^{th}\$ example
 - $y_i$ is the observed value for the $i^{th}$ example
 
 ## Gradient Descent in Linear Regression
 
-Gradient descent is an optimization algorithm used to minimize the cost function by iteratively updating the coefficients $(\beta\)$ in the direction of the steepest descent. The gradient descent update rule for linear regression is given by:
+Gradient descent is an optimization algorithm used to minimize the cost function by iteratively updating the coefficients $\beta\$ in the direction of the steepest descent. The gradient descent update rule for linear regression is given by:
 
 $$
 \beta_j := \beta_j - \alpha \frac{\partial}{\partial \beta_j} J(\beta) \
@@ -70,7 +70,7 @@ $$
 
 Where:
 - $\alpha\$ is the learning rate (step size)
-- \(\frac{\partial}{\partial \beta_j} J(\beta)\) is the partial derivative of the cost function with respect to \(\beta_j\)
+- $\frac{\partial}{\partial \beta_j} J(\beta)\$ is the partial derivative of the cost function with respect to $\beta_j\$
 
 # Model Evaluation and Parameter Tuning
 
@@ -80,10 +80,10 @@ Feature selection is crucial in linear regression to include only relevant featu
 
 ## Evaluating Model Performance
 
-Model performance in linear regression is typically evaluated using metrics such as the coefficient of determination (\(R^2\)), mean squared error (MSE), and root mean squared error (RMSE). These metrics measure the goodness of fit between the observed and predicted values.
+Model performance in linear regression is typically evaluated using metrics such as the coefficient of determination $R^2$, mean squared error (MSE), and root mean squared error (RMSE). These metrics measure the goodness of fit between the observed and predicted values.
 
 ## Tuning Hyperparameters in Linear Regression
 
-Hyperparameters in linear regression include the learning rate (\(\alpha\)) for gradient descent and the regularization parameter (\(\lambda\)) for regularization techniques such as Lasso and Ridge regression. Hyperparameter tuning involves selecting optimal values for these parameters to improve model performance and prevent overfitting.
+Hyperparameters in linear regression include the learning rate (\(\alpha\)) for gradient descent and the regularization parameter $\lambda\$ for regularization techniques such as Lasso and Ridge regression. Hyperparameter tuning involves selecting optimal values for these parameters to improve model performance and prevent overfitting.
 
 
