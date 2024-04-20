@@ -7,6 +7,10 @@ Inside "Linear_Regression.ipynb," you'll find detailed explanations and coding e
 
 # Introduction to Linear Regression
 
+![Linear Regression Cartoon](https://imgs.xkcd.com/comics/linear_regression_2x.png)
+
+Imgae from XKCD
+
 Linear regression is a fundamental statistical method used for modeling the relationship between a dependent variable and one or more independent variables. It assumes a linear relationship between the input features and the target variable, making it suitable for tasks such as prediction and inference.
 
 ## Fundamentals of Linear Regression
@@ -84,6 +88,6 @@ Model performance in linear regression is typically evaluated using metrics such
 
 ## Tuning Hyperparameters in Linear Regression
 
-Hyperparameters in linear regression include the learning rate (\(\alpha\)) for gradient descent and the regularization parameter $\lambda\$ for regularization techniques such as Lasso and Ridge regression. Hyperparameter tuning involves selecting optimal values for these parameters to improve model performance and prevent overfitting.
+Hyperparameters in linear regression include the learning rate ＄\alpha\＄ for gradient descent and the regularization parameter $\lambda\$ for regularization techniques such as Lasso and Ridge regression. Hyperparameter tuning involves selecting optimal values for these parameters to improve model performance and prevent overfitting.
 
 
