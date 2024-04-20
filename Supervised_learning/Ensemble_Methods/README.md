@@ -52,7 +52,7 @@ Bagging involves training multiple base models independently on random subsets o
 Formula for Bagging:
 
 $$
-\hat{f}_{bag}(x) = \frac{1}{B} \sum_{b=1}^{B} \hat{f}^{*}_b(x) \
+hat{f}_{bag}(x) = \frac{1}{B} \sum_{b=1}^{B} \hat{f}^{*}_b(x)
 $$
 
 ### Boosting:
