@@ -7,6 +7,10 @@ Inside "Logistic_Regression.ipynb," you'll find detailed explanations and coding
 
 # Introduction to Logistic Regression
 
+![Logistic Regression](https://images.spiceworks.com/wp-content/uploads/2022/04/11040522/46-4.png)
+
+Image from Vijay Kanade
+
 Logistic regression is a popular statistical method used for binary classification tasks. Unlike linear regression, which predicts continuous outcomes, logistic regression predicts the probability that an instance belongs to a particular class. It is widely used in various fields, including healthcare, finance, and marketing.
 
 ## Fundamentals of Logistic Regression
