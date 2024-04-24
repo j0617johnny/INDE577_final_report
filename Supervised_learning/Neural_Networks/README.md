@@ -50,7 +50,7 @@ $$
 The ReLU activation function is defined as:
 
 $$
-\f(x) = \max(0, x) \
+f(x) = \max(0, x) \
 $$
 
 
