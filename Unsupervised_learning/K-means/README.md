@@ -7,6 +7,10 @@ Inside "K-means.ipynb," you'll find detailed explanations and coding examples de
 
 ## Introduction to K-Means Clustering
 
+![K-means](https://images.datacamp.com/image/upload/v1678462092/image7_a1777d39aa.png)
+
+Image from RADAR
+
 K-Means clustering is a popular unsupervised machine learning algorithm used for partitioning data into clusters. In this section, we explore the fundamentals, applications, advantages, and disadvantages of K-Means clustering.
 
 ## Fundamentals of K-Means Clustering
