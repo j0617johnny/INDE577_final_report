@@ -71,7 +71,7 @@ $$
 \theta = \theta - \alpha \cdot \nabla J(\theta) \
 $$
 
-   where \ &nabla; J(&theta;) \ represents the gradient of the cost function with respect to &theta;.
+   where &nabla; J(&theta;) represents the gradient of the cost function with respect to &theta;.
 
 4. **Repeat:** Iterate steps 2 and 3 until convergence criteria are met, such as reaching a maximum number of iterations or achieving a desired level of performance.
 
