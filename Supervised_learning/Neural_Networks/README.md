@@ -7,6 +7,10 @@ Inside "Neural_Networks.ipynb," you'll find detailed explanations and coding exa
 
 ## Introduction to Neural Networks
 
+![Neural Network](http://ufldl.stanford.edu/tutorial/images/Network331.png)
+
+Image from UFLDL Tutorial
+
 Neural networks are a class of machine learning models inspired by the structure and function of the human brain. They consist of interconnected nodes, called neurons, organized into layers. Neural networks are capable of learning complex patterns and relationships in data, making them suitable for a wide range of tasks, including classification, regression, and pattern recognition.
 
 ### Fundamentals of Neural Networks
@@ -42,6 +46,14 @@ The sigmoid activation function is defined as:
 $$
 \sigma(x) = \frac{1}{1 + e^{-x}} \
 $$
+
+The ReLU activation function is defined as:
+
+$$
+\f(x) = \max(0, x) \
+$$
+
+
 
 ### Layers in Neural Networks
 
