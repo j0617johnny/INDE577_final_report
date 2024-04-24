@@ -15,7 +15,7 @@ K-Nearest Neighbors (KNN) is a simple yet powerful supervised machine learning a
 
 ## Fundamentals of K-Nearest Neighbors
 
-KNN does not involve explicit model training; instead, it stores the entire training dataset as its "knowledge" and makes predictions based on the similarity between new instances and existing data points. The choice of the number of neighbors (\( K \)) is a crucial parameter in KNN, affecting the model's performance and generalization capabilities.
+KNN does not involve explicit model training; instead, it stores the entire training dataset as its "knowledge" and makes predictions based on the similarity between new instances and existing data points. The choice of the number of neighbors $K$ is a crucial parameter in KNN, affecting the model's performance and generalization capabilities.
 
 ## Applications of KNN
 

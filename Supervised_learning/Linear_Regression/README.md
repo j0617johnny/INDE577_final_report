@@ -88,6 +88,6 @@ Model performance in linear regression is typically evaluated using metrics such
 
 ## Tuning Hyperparameters in Linear Regression
 
-Hyperparameters in linear regression include the learning rate ＄\alpha\＄ for gradient descent and the regularization parameter $\lambda\$ for regularization techniques such as Lasso and Ridge regression. Hyperparameter tuning involves selecting optimal values for these parameters to improve model performance and prevent overfitting.
+Hyperparameters in linear regression include the learning rate $\alpha\$ for gradient descent and the regularization parameter $\lambda\$ for regularization techniques such as Lasso and Ridge regression. Hyperparameter tuning involves selecting optimal values for these parameters to improve model performance and prevent overfitting.
 
 
