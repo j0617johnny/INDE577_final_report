@@ -49,60 +49,25 @@ Ensemble algorithms encompass a variety of techniques for combining base models 
 
 Bagging involves training multiple base models independently on random subsets of the training data with replacement. Predictions are then aggregated through averaging (for regression) or voting (for classification) to obtain the final prediction.
 
-Formula for Bagging:
-
-$$
-hat{f}_{bag}(x) = \frac{1}{B} \sum_{b=1}^{B} \hat{f}^{*}_b(x)
-$$
-
 ### Boosting:
 
 Boosting sequentially trains a series of base models, where each subsequent model focuses on correcting the errors made by the previous ones. Predictions are combined through weighted averaging, with higher weights assigned to more accurate models.
 
-Formula for Boosting:
-
-$$
-\hat{f}_{boost}(x) = \sum_{m=1}^{M} \beta_m \hat{f}_m(x) \
-$$
 ### Stacking:
 
 Stacking, also known as meta-ensembling, combines predictions from multiple base models using a meta-learner. Base model predictions serve as features for training the meta-learner, which learns to combine these predictions optimally.
-
-Formula for Stacking:
-
-$$
-hat{f}_{\text{bag}}(x) = \frac{1}{B} \sum_{b=1}^{B} \hat{f}^{*}_b(x)
-$$
 
 ### Random Forest:
 
 Random Forest is an ensemble technique that combines multiple decision trees trained on random subsets of features and data samples. Predictions are aggregated through averaging (for regression) or voting (for classification) to produce the final prediction.
 
-Formula for Random Forest:
-
-$$
-\hat{f}_{RF}(x) = \frac{1}{B} \sum_{b=1}^{B} \hat{f}^{*}_b(x) \
-$$
-
 ### Gradient Boosting Machines (GBM):
 
 GBM builds an ensemble of decision trees sequentially, with each tree trained to correct the errors of the previous ones. Predictions are obtained by aggregating the predictions of all trees.
 
-Formula for GBM:
-
-$$
-\hat{f}_{GBM}(x) = \sum_{m=1}^{M} \beta_m h_m(x) \
-$$
-
 ### AdaBoost:
 
 AdaBoost, short for Adaptive Boosting, trains a series of weak learners sequentially, with each subsequent learner focusing more on the examples misclassified by the previous ones. Predictions are combined through weighted averaging.
-
-Formula for AdaBoost:
-
-$$
-\hat{f}_{Ada}(x) = \sum_{m=1}^{M} \beta_m h_m(x) \
-$$
 
 ## Combining Base Learners in Ensemble Methods
 

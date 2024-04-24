@@ -47,7 +47,7 @@ $$
 w_i \leftarrow w_i + \alpha \cdot (y - \hat{y}) \cdot x_i \
 $$
 
-where $\alpha \$ is the learning rate.
+where $\alpha$ is the learning rate.
 
 ## Activation Function in Perceptron
 

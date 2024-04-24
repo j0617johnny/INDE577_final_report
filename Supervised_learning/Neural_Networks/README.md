@@ -7,10 +7,6 @@ Inside "Neural_Networks.ipynb," you'll find detailed explanations and coding exa
 
 ## Introduction to Neural Networks
 
-![Neural Network](https://www.researchgate.net/publication/324643720/figure/fig1/AS:617327632584704@1524193785650/A-cartoon-of-a-deep-fully-connected-neural-network-illustrating-the-description.png)
-
-Image from Javier Mauricio Duarte
-
 Neural networks are a class of machine learning models inspired by the structure and function of the human brain. They consist of interconnected nodes, called neurons, organized into layers. Neural networks are capable of learning complex patterns and relationships in data, making them suitable for a wide range of tasks, including classification, regression, and pattern recognition.
 
 ### Fundamentals of Neural Networks
