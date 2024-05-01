@@ -1,7 +1,7 @@
 ## INDE577 @ Rice University Spring 2024
 ---
 
-### By [Chia-Yu Ho]https://github.com/j0617johnny
+### By [Chia-Yu Ho](https://github.com/j0617johnny)
 ---
 
 ## Course Description
