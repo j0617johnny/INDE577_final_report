@@ -1,4 +1,4 @@
-## INDE577 @ Rice University Fall 2024
+## INDE577 @ Rice University Spring 2024
 ---
 
 ### By [Chia-Yu Ho]https://github.com/j0617johnny
